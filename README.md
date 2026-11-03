@@ -8,7 +8,7 @@ Software Engineer at [Expo](https://expo.dev). I work on React Native and the to
 
 - [Expo](https://github.com/expo/expo)
 - [React Native](https://github.com/facebook/react-native)
-- [huntiestack](https://github.com/huntie/huntiestack): a single agent-first dev workspace for working across repos.
+- [huntiestack](https://github.com/huntie/huntiestack): My agent-first dev workspace for working across repos.
 
 ### 🛫 2026 conferences
 
