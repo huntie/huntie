@@ -1,8 +1,8 @@
 ## Hi, I'm Alex 👋🏻
 
-Software engineer at [Expo](https://expo.dev). I work on React Native and the tools around it.
+Software Engineer at [Expo](https://expo.dev). I work on React Native and the tools around it.
 
-📣 I post about React Native, Expo and app UI on X: [@huntie](https://x.com/huntie)
+📣 I post about React Native, Expo, apps, and more on X: [@huntie](https://x.com/huntie)
 
 ### 🛠️ Things I'm building
 
@@ -26,10 +26,10 @@ Software engineer at [Expo](https://expo.dev). I work on React Native and the to
 
 ### ✨ Highlights
 
-- 📝 Blog: [Supporting iPhone Duo with Expo: a developer guide](https://expo.dev/blog/supporting-iphone-duo) on Expo
-- 🎤 Talk: [React Conf 2025 React Native Keynote](https://www.youtube.com/watch?v=NiYwlvXsBKw) on YouTube
-- 📝 Blog: [Moving towards a stable JavaScript API](https://reactnative.dev/blog/2025/06/12/moving-towards-a-stable-javascript-api) on React Native
-- 🎤 Talk: [Towards a Stable JavaScript API](https://www.youtube.com/watch?v=GLV29nGUxw8) at App.js Conf 2025 on YouTube
+- 📝 [Supporting iPhone Duo with Expo: a developer guide](https://expo.dev/blog/supporting-iphone-duo)
+- 🎤 [React Conf 2025 React Native Keynote](https://www.youtube.com/watch?v=NiYwlvXsBKw)
+- 📝 [Moving towards a stable JavaScript API](https://reactnative.dev/blog/2025/06/12/moving-towards-a-stable-javascript-api)
+- 🎤 [Towards a Stable JavaScript API](https://www.youtube.com/watch?v=GLV29nGUxw8)
 
 <details>
 <summary>Older highlights</summary>
