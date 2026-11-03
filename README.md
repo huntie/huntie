@@ -20,7 +20,7 @@ Software Engineer at [Expo](https://expo.dev). I work on React Native and the to
 <summary>🛫 2025 conferences</summary>
 
 - 🇵🇱 [App.js](https://ti.to/appjs/2025) (May 28-30) ✅
-- 🇵🇱 [React Universe]([https://ti.to/appjs/2025](https://www.callstack.com/events/react-universe-conf-2025)) (Sep 2-4) ✅
+- 🇵🇱 [React Universe](https://www.callstack.com/events/react-universe-conf-2025) (Sep 2-4) ✅
 - 🇺🇸 [React Conf](https://conf.react.dev/) (Oct 7-8) ✅
 
 </details>
