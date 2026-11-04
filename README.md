@@ -6,8 +6,7 @@ Software Engineer at [Expo](https://expo.dev), previously Meta. Building the fut
 
 ### 🛠️ Things I'm building
 
-- [Expo](https://github.com/expo/expo)
-- [React Native](https://github.com/facebook/react-native)
+- [Expo](https://github.com/expo/expo) + [React Native](https://github.com/facebook/react-native): The best way to build apps.
 - [huntiestack](https://github.com/huntie/huntiestack): My agent-first dev workspace for working across repos, from anywhere.
 
 ### 🛫 2026 conferences
