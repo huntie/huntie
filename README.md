@@ -26,6 +26,7 @@ Software Engineer at [Expo](https://expo.dev), previously Meta. Building the fut
 
 ### ✨ Highlights
 
+- 📺 Livestream: [Expo SDK 58: iOS 27, iPhone Duo, App Intents & @expo/agent-cli](https://x.com/expo/status/2118040761698598914)
 - 📝 Expo blog: [Supporting iPhone Duo with Expo: A developer guide](https://expo.dev/blog/supporting-iphone-duo)
 - 🎤 Talk: [React Conf 2025 React Native Keynote](https://www.youtube.com/watch?v=NiYwlvXsBKw)
 - 📝 React Native blog: [Moving Towards a Stable JavaScript API](https://reactnative.dev/blog/2025/06/12/moving-towards-a-stable-javascript-api)
